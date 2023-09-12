@@ -1,21 +1,23 @@
 /*  your css code here. If applicable */
+.main-div{
+	font-size:8px;
+	height:10px;
+	width:80%;
+}
 #yellow{
 	background-color:yellow;
 	border:1px solid green;
-	height:10px;
-	width:80%;
+	
 	
 }
 #red{
 	background-color:red;
 	border:1px solid black;
-	height:10px;
-	width:80%;
+	
 	
 }
 #green{
 	background-color:green;
 	border:1px solid yellow;
-	height:10px;
-	width:80%;
+	
 }
